@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.AssemblyInfo.cs
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.deps.json
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.runtimeconfig.json
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.runtimeconfig.dev.json
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.dll
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.pdb
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.dll
+C:\Users\User\Desktop\Univer\Sem 6\PR\Lab\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.pdb
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.deps.json
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.runtimeconfig.json
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.dll
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.pdb
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.AssemblyInfo.cs
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.dll
+C:\Users\User\Desktop\Programarea_in_Retea\Lab2\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.pdb

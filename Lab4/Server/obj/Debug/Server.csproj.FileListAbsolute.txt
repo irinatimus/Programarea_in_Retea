@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ceapchii\lab5\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\ceapchii\lab5\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\ceapchii\lab5\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\ceapchii\lab5\Server\bin\Debug\Client.exe
+C:\Users\User\Desktop\ceapchii\lab5\Server\bin\Debug\Client.pdb
+C:\Users\User\Desktop\ceapchii\lab5\Server\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\ceapchii\lab5\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ceapchii\lab5\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Desktop\ceapchii\lab5\Server\obj\Debug\Server.Server.resources
+C:\Users\User\Desktop\ceapchii\lab5\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ceapchii\lab5\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ceapchii\lab5\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\User\Desktop\ceapchii\lab5\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\ceapchii\lab5\Server\obj\Debug\Server.pdb

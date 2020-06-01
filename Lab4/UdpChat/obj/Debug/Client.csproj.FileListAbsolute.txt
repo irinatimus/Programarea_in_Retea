@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\bin\Debug\Client.exe
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\bin\Debug\Client.pdb
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\obj\Debug\Client.UserForm.resources
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\obj\Debug\Client.LoginForm.resources
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\obj\Debug\UdpChat.Properties.Resources.resources
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\obj\Debug\Client.exe
+C:\Users\User\Desktop\ceapchii\lab5\UdpChat\obj\Debug\Client.pdb
